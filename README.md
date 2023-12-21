@@ -1,4 +1,4 @@
-![GB coffee](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/137b4f9f-48f3-45fc-aff7-a79428ee11bf)
+![WhatsApp Image 2023-12-21 at 20 28 19_201d076f](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/4b1f28a5-fab0-4af1-b722-f5ff3d7c50f4)
 
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
 
