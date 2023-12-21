@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 🌱 I’m currently learning : **Javascript, Node.js, Express.js, Operating Systems**<br><br>- 👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172<br><br>- 📝 I will express my thoughts on X : @KulVarad172004<br><br>- 📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>- ⚡ Fun fact: **`git blame` shows me the author for every error :)**
+🌱 I’m currently learning : **Javascript, Node.js, Express.js, Operating Systems**<br><br>👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172<br><br>📝 I will express my thoughts on X : @KulVarad172004<br><br>📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>⚡ Fun fact: **`git blame` shows me the author for every error :)**
 
 
 ## 🌐 Socials:
