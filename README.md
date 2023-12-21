@@ -2,6 +2,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=varad-kulkarni172&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 💫 About Me:
 🌱 I’m currently learning : **Javascript, Node.js, Express.js, Operating Systems**<br><br>👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172<br><br>📝 I will express my thoughts on X : @KulVarad172004<br><br>📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>⚡ Fun fact: **`git blame` shows me the author for every error :)**
 
@@ -15,9 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varad-kulkarni172&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varad-kulkarni172&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=varad-kulkarni172&limit=5&theme=dark&combine_all_yearly_contributions=true)
