@@ -6,7 +6,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=varad-kulkarni172&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🌱 I’m currently learning : **C, Python and Operating Systems**<br><br>👨‍💻 You can know more about me by clicking on this link : https://linkfree.io/varad-kulkarni172<br><br>📝 I will express my thoughts on X : @KulVarad172004<br><br>📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>⚡ Fun fact: **`git blame` shows me the author for every error :)**
+🌱 I’m currently learning : **C, Python and Operating Systems**<br><br>📝 I will express my thoughts on X : @KulVarad172004<br><br>📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>⚡ Fun fact: **`git blame` shows me the author for every error :)**
 
 
 ## 🌐 Socials:
