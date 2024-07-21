@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-12-21 at 20 28 19_201d076f](https://github.com/varad-kulkarni172/varad-kulkarni172/assets/130827608/4b1f28a5-fab0-4af1-b722-f5ff3d7c50f4)
+![WhatsApp Image 2024-07-20 at 22 27 35_1393db66](https://github.com/user-attachments/assets/eae404ec-8143-4d5a-9e2b-7a91a19c2959)
 
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
 
