@@ -1,4 +1,10 @@
-<h1>👋 Hi there, I'm Varad Kulkarni, a Researcher in Networking & AI !<h1>
+<h1 align="center">👋 Hey, I'm Varad Kulkarni!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full%20Stack%20Web%20Developer;Researching%20In%20GenAI%20And%20LLM's;Networking%20Systems%20Aficionado" alt="Typing SVG" />
+</p>
+
+
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=varad-kulkarni172&color=brightgreen)
