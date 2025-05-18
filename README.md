@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varad-kulkarni172&theme=dark&hide_border=false)<br/>
 
-## 🎤 Talks & Articles
+## ✍️ My BLogs
 
 <a href="https://varadkulkarni.hashnode.dev/mastering-sql-from-basics-to-advanced-techniques-and-real-world-applications" target="_blank" style="text-decoration: none; color: inherit;">
   <div style="display: flex; align-items: flex-start; border: 1px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
