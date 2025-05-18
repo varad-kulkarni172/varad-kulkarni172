@@ -24,11 +24,30 @@
 # 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/docker-%2346b8e9.svg?style=for-the-badge&logo=docker&logoColor=white) ![Computer Networks](https://img.shields.io/badge/computer%20networks-%232ECC71.svg?style=for-the-badge&logo=networks&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varad-kulkarni172&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad-kulkarni172&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varad-kulkarni172&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🎤 Talks & Articles
+
+<a href="https://varadkulkarni.hashnode.dev/mastering-sql-from-basics-to-advanced-techniques-and-real-world-applications" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="display: flex; align-items: flex-start; border: 1px solid #ddd; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Y9kOsyoWyaU/upload/e98e30876466116a49f80acb1a6806e9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Mastering SQL" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+    <div>
+      <h3 style="margin-top: 0; margin-bottom: 8px;">Mastering SQL: From Basics to Advanced Techniques and Real-World Applications</h3>
+      <p style="margin: 0;">Unlocking the Power of Data Management through SQL. Published on Hashnode (Jul 2024).</p>
+    </div>
+  </div>
+</a>
+
+<a href="https://varadkulkarni.hashnode.dev/memory-management-in-mobile-os" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="display: flex; align-items: flex-start; border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713794220383/178369ea-db78-45a7-8bed-1c4ba9a75219.jpeg?auto=compress,format&format=webp" alt="Memory Management in Mobile OS" style="width: 180px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+    <div>
+      <h3 style="margin-top: 0; margin-bottom: 8px;">Memory Management in Mobile OS</h3>
+      <p style="margin: 0;">An overview of how the memory management is handled in mobile Operating Systems. Published on Hashnode (Apr 2024).</p>
+    </div>
+  </div>
+</a>
+
 
 ---
