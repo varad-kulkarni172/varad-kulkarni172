@@ -10,17 +10,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D profile contribution
+
     steps:
       # Checkout repository
       - uses: actions/checkout@v3
       
-      # Run the generation action
+      # Generate 3D profile contribution graph
       - name: Generate 3D profile contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-          USERNAME: ${{ github.repository_owner }}
-          
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GH_TOKEN }}
+          output: ./profile-3d-contrib/profile-night-green.svg
+
       # Commit and push if there are changes
       - name: Commit & Push
         run: |
@@ -30,5 +32,3 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Generated 3D profile contribution"
           git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
