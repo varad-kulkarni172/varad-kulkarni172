@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=varad-kulkarni172&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🌱 I’m currently learning : **GenAI, CyberSecurity and Computer Networks**<br><br>🌐 Visit my website here for more information: https://varad-kulkarni-portfolio.vercel.app/ <br><br>📝 I will express my thoughts on [@LowLatencyLad](https://x.com/LowLatencyLad) <br><br>
+🌱 I’m currently learning : **GenAI, CyberSecurity and Computer Networks**<br><br>🌐 Visit my website here for more information: https://varad-kulkarni-portfolio.vercel.app/ <br><br>📝 I will express my thoughts on [@varadnk](https://x.com/varadnk) <br><br>
 📫 You can contact me through **varadkulkarni172@gmail.com**<br><br>⚡ Fun fact: **`git blame` shows me the author for every error :)**
 
 
