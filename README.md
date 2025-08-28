@@ -7,6 +7,7 @@
 
 
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varad-kulkarni172&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=varad-kulkarni172&color=brightgreen)
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
 
