@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Full%20Stack%20Web%20Developer;Researching%20In%20GenAI%20And%20LLM's;Networking%20Systems%20Aficionado" alt="Typing SVG" />
 </p>
 
-![3D Profile](https://raw.githubusercontent.com/varad-kulkarni172/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://github.com/varad-kulkarni172/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 ## [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varad-kulkarni172&bg_color=293036&color=ffffff&line=c5ff9e&point=99f976&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=varad-kulkarni172&color=brightgreen)
 [![](https://visitcount.itsvg.in/api?id=varad-kulkarni172&icon=0&color=0)](https://visitcount.itsvg.in)
