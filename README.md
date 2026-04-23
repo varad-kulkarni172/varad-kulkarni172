@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;GenAI+%2B+LLM+Builder;Systems+%26+Networks+Enthusiast" />
 </p>
 
+
+## 📊 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/varad-kulkarni172/varad-kulkarni/main/profile-3d-contrib/profile-night-green.svg)
+
 ---
 
 ## 🧠 About Me
@@ -17,43 +22,79 @@
 
 📌 Portfolio: https://varad-kulkarni-portfolio.vercel.app/  
 📬 Email: varadkulkarni172@gmail.com  
-🧵 X: https://x.com/varadnk  
-
----
-
-## 📊 3D Contribution Graph
-
-![](https://raw.githubusercontent.com/varad-kulkarni172/varad-kulkarni/main/profile-3d-contrib/profile-night-green.svg)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varad-kulkarni172&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+🧵 X: https://x.com/varadnk
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Backend
-- FastAPI
-- Node.js / Express
-- MongoDB
-- Redis
-- Docker
-- **Kubernetes**
 
-### Frontend
-- React.js
-- Tailwind CSS
+<h3 align="center">AI / ML</h3>
 
-### AI / ML
-- PyTorch
-- HuggingFace Transformers
-- LangChain
-- Sentence Transformers
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60"/><br/>
+  <sub>Transformer Models</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP%20Pipelines-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Context%20Injection%20%26%20Memory-222222?style=for-the-badge" />
+</p>
+
+<br/>
+
+<h3 align="center">DevOps and Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,yaml,git" height="60"/>
+</p>
+
+<p align="center">
+  <sub>
+    Linux &nbsp;&nbsp;&nbsp;
+    Docker &nbsp;&nbsp;&nbsp;
+    Kubernetes &nbsp;&nbsp;&nbsp;
+    YAML &nbsp;&nbsp;&nbsp;
+    Git
+  </sub>
+</p>
+
+<br/>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css" height="60"/>
+</p>
+
+<p align="center">
+  <sub>
+    MongoDB &nbsp;&nbsp;
+    Express &nbsp;&nbsp;
+    React &nbsp;&nbsp;
+    Node.js &nbsp;&nbsp;
+    JavaScript &nbsp;&nbsp;
+    HTML &nbsp;&nbsp;
+    CSS
+  </sub>
+</p>
+
+<br/>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" height="60"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <sub>
+    Python &nbsp;&nbsp;&nbsp;
+    Java &nbsp;&nbsp;&nbsp;
+    SQL
+  </sub>
+</p>
 
 ---
 
@@ -77,11 +118,5 @@
 - Building **Vakya.ai**
 - Exploring **AI-native developer tooling**
 - Deep diving into **distributed infra + networking**
-
----
-
-## ⚡ Fun
-
-> git blame shows me the author for every bug
 
 ---
