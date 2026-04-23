@@ -23,9 +23,7 @@
 
 ## 📊 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varad-kulkarni172/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</p>
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
