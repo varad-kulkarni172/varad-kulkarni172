@@ -23,7 +23,7 @@
 
 ## 📊 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-night-green.svg?v=1)
+![](https://raw.githubusercontent.com/varad-kulkarni172/varad-kulkarni/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
