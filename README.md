@@ -13,16 +13,14 @@
 
 ## 🧠 About Me
 
-- Building systems at the intersection of **GenAI + Distributed Systems**
-- Strong focus on **performance, scalability, and real-world engineering**
-- Currently exploring:
-  - LLM pipelines
-  - Computer Networks
-  - Cybersecurity
+- Building systems that convert code into knowledge and memory into usable context
+- Focused on making LLM systems reliable beyond demos — context, memory, and orchestration
+- Designing distributed systems that prioritize synchronization, correctness, and real-time state
 
-📌 Portfolio: https://varad-kulkarni-portfolio.vercel.app/  
-📬 Email: varadkulkarni172@gmail.com  
-🧵 X: https://x.com/varadnk
+➡️ Currently working at the intersection of:
+- LLM pipelines and memory systems  
+- Distributed systems and networking  
+- Context Injection and Memory
 
 ---
 
@@ -46,7 +44,8 @@
 <h3 align="center">DevOps and Systems</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,yaml,git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git" height="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGr1ZoLmuC5vhCocROsUgR2bcISwmj7TEEg&s" height="60"/>
 </p>
 
 <p align="center">
@@ -54,8 +53,9 @@
     Linux &nbsp;&nbsp;&nbsp;
     Docker &nbsp;&nbsp;&nbsp;
     Kubernetes &nbsp;&nbsp;&nbsp;
-    YAML &nbsp;&nbsp;&nbsp;
     Git
+    YAML &nbsp;&nbsp;&nbsp;
+    
   </sub>
 </p>
 
@@ -98,6 +98,36 @@
 
 ---
 
+## 🎯Organizations I contribute to and actively build with
+
+<p align="center">
+  <a href="https://github.com/mlscvitpune">
+    <img src="https://avatars.githubusercontent.com/u/81315956?s=200&v=4" width="90" style="border-radius: 12px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vakya-ai">
+    <img src="https://avatars.githubusercontent.com/u/213980641?s=200&v=4" width="90" style="border-radius: 12px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/memoir-so">
+    <img src="https://avatars.githubusercontent.com/u/277292453?s=200&v=4" width="90" style="border-radius: 12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    MLSC VIT Pune &nbsp;&nbsp;&nbsp;&nbsp;
+    Vakya AI &nbsp;&nbsp;&nbsp;&nbsp;
+    Memoir
+  </sub>
+</p>
+
+---
+
+<p align="center">
+  <sub>Click to view full resume</sub>
+</p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -106,16 +136,55 @@
 
 ---
 
-## ✍️ Writing
+## ✍️ Some Blogs that I wrote
 
-- SQL Deep Dive → https://varadkulkarni.hashnode.dev/mastering-sql-from-basics-to-advanced-techniques-and-real-world-applications  
-- Memory Management → https://varadkulkarni.hashnode.dev/memory-management-in-mobile-os  
+<table>
+<tr>
+<td width="35%">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Y9kOsyoWyaU/upload/e98e30876466116a49f80acb1a6806e9.jpeg?w=400"/>
+</td>
+<td>
+  <a href="https://varadkulkarni.hashnode.dev/mastering-sql-from-basics-to-advanced-techniques-and-real-world-applications">
+    <b>Mastering SQL: From Basics to Advanced Techniques and Real-World Applications</b>
+  </a>
+  <br/>
+  Unlocking the power of data management through SQL.
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713794220383/178369ea-db78-45a7-8bed-1c4ba9a75219.jpeg?w=400"/>
+</td>
+<td>
+  <a href="https://varadkulkarni.hashnode.dev/memory-management-in-mobile-os">
+    <b>Memory Management in Mobile Operating Systems</b>
+  </a>
+  <br/>
+  A breakdown of how memory is handled in modern mobile OS.
+</td>
+</tr>
+
+<tr>
+<td width="35%">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1764838374055/0f1f1dbd-12dd-416a-9884-73fbbbf34756.jpeg?w=400"/>
+</td>
+<td>
+  <a href="https://varadkulkarni.hashnode.dev/face-recognition-for-authentication?utm_source=hashnode&utm_medium=feed">
+    <b>Face Recognition for Authentication</b>
+  </a>
+  <br/>
+  Exploring biometric authentication using face recognition systems.
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## 🧩 Current Focus
 
-- Building **Vakya.ai**
+- Building **Vakya.ai and Memoir**
 - Exploring **AI-native developer tooling**
 - Deep diving into **distributed infra + networking**
 
