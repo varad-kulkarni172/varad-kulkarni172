@@ -124,18 +124,6 @@
 
 ---
 
-<p align="center">
-  <sub>Click to view full resume</sub>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varad-kulkarni172&theme=dark&hide_border=true"/>
-</p>
-
----
-
 ## ✍️ Some Blogs that I wrote
 
 <table>
